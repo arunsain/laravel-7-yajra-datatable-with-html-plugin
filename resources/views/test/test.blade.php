@@ -1,0 +1,1 @@
+hii this is  {{ $name }} this text comes from blade file
